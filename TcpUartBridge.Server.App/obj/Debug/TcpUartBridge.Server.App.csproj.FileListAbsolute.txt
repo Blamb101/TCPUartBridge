@@ -1,0 +1,10 @@
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\bin\Debug\TcpUartBridge.Server.App.exe.config
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\bin\Debug\TcpUartBridge.Server.App.exe
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\bin\Debug\TcpUartBridge.Server.App.pdb
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\bin\Debug\Bwl.Framework.dll
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\obj\Debug\TcpUartBridge.Server.App.csprojResolveAssemblyReference.cache
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\obj\Debug\TcpUartBridge.Server.App.Properties.Resources.resources
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\obj\Debug\TcpUartBridge.Server.App.csproj.GenerateResource.Cache
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\obj\Debug\TcpUartBridge.Server.App.exe
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\obj\Debug\TcpUartBridge.Server.App.pdb
+D:\work\hardware\TcpUartBridge\TcpUartBridge.Server.App\TcpUartBridge.Server.App\obj\Debug\TcpUartBridge.Server.App.App.resources
